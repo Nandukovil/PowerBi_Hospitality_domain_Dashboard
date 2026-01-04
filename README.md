@@ -68,4 +68,4 @@ c️ Walkthrough of Key Visuals
 🔍 One-Line Problem Statement
 
 AtliQ Grands is losing market share and revenue due to competition and poor decision-making and needs data-driven insights from historical data to improve revenue performance.
-https://github.com/Nandukovil/PowerBi_Hospitality_domain_Dashboard/blob/main/Screenshot%20of%20DashBoard.png
+(https://github.com/Nandukovil/PowerBi_Hospitality_domain_Dashboard/blob/main/Screenshot%20of%20DashBoard.png)
